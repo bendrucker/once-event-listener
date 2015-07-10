@@ -1,0 +1,33 @@
+{
+  "name": "once-event-listener",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Listen on a DOM event once",
+  "license": "MIT",
+  "repository": "bendrucker/once-event-listener",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "event",
+    "listener",
+    "eventtarget",
+    "once"
+  ],
+  "devDependencies": {
+    "dom-event-target": "~1.0.0",
+    "standard": "^4.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "event-listener": "~1.0.1"
+  }
+}
