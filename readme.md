@@ -1,4 +1,4 @@
-# once-event-listener [![Build Status](https://travis-ci.org/bendrucker/once-event-listener.svg?branch=master)](https://travis-ci.org/bendrucker/once-event-listener)
+# once-event-listener [![Build Status](https://travis-ci.org/bendrucker/once-event-listener.svg?branch=master)](https://travis-ci.org/bendrucker/once-event-listener) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/once-event-listener.svg)](https://greenkeeper.io/)
 
 > Listen on a DOM event once
 
