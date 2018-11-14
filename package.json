@@ -21,13 +21,13 @@
   ],
   "devDependencies": {
     "dom-event-target": "~1.0.0",
-    "standard": "^4.0.0",
+    "standard": "^12.0.1",
     "tape": "^4.0.0"
   },
   "files": [
     "index.js"
   ],
   "dependencies": {
-    "event-listener": "~1.0.1"
+    "event-listener": "~1.1.0"
   }
 }
